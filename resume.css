@@ -1,0 +1,16 @@
+body {
+	background-color: #fffdd0;
+	color: #323232;
+	font-family: consolas, arial; /* Falls back to Times on default. */	
+	marginL auto;
+	max-width: 50%;
+}
+
+/* 
+img {
+	border-radius: 10%;
+}
+
+50% border-radius creates a perfect circle.
+
+*/
